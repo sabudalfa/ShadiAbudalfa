@@ -46,10 +46,10 @@ profile:
 # # =====================================================
 
 education:
-  - degree: "Ph.D. in [Field]"
-    school: "[University Name]"
-    years: "20XX - Present"
-    logo: "https://upload.wikimedia.org/wikipedia/en/a/a1/Arizona_State_University_seal.svg"
+  - degree: "Ph.D. in Computer Science and Engineering"
+    school: "King Fahd University of Petroleum & Minerals"
+    years: "2013 - 2018"
+    logo: "https://upload.wikimedia.org/wikipedia/ar/3/37/King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png"
 
   - degree: "M.S. in Computer Science"
     school: "National Taiwan University"
