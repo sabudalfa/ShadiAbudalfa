@@ -25,6 +25,12 @@ profile:
         name: "FaLinkedin"
         package: "react-icons/fa6"
 
+    - name: "Resume"
+      url: "/pdf/CV.pdf"
+      icon:
+        name: "FaRegIdBadge"
+        package: "react-icons/fa6"
+        
     - name: "Google Scholar"
       url: "https://scholar.google.com/citations?user=hUnnZTQAAAAJ&hl"
       icon:
