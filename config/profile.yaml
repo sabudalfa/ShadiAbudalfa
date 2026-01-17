@@ -42,6 +42,12 @@ profile:
       icon:
         name: "FaResearchgate"
         package: "react-icons/fa6"
+        
+    - name: "ORCID"
+      url: "https://orcid.org/0000-0002-2028-144X"
+      icon:
+        name: "LiaOrcid"
+        package: "react-icons/lia"
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
