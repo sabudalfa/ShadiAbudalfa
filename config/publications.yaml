@@ -109,6 +109,35 @@ publications:
         venue: "Journal of Universal Computer Science"
         link: "https://www.researchgate.net/profile/Shadi-Abudalfa/publication/330873022_Open_Domain_Targeted_Sentiment_Classification_Using_Semi-Supervised_Dynamic_Generation_of_Feature_Attributes/links/5caebcf5299bf120975d745d/Open-Domain-Targeted-Sentiment-Classification-Using-Semi-Supervised-Dynamic-Generation-of-Feature-Attributes.pdf"
         featured: true
+
+      - title: "QoS Adaptation for Publish/Subscribe Middleware in Real-Time Dynamic Environments"
+        authors: "Basem Almadani, Shadi Abudalfa, Shuang-Hua Yang"
+        year: 2017
+        venue: "The International Arab Journal of Information Technology"
+        link: "https://iajit.org/PDF/Vol%2014,%20No.%202/8606.pdf"
+        featured: false
+
+      - title: "K-means algorithm with a novel distance measure"
+        authors: "Shadi Abudalfa, Mohammad Mikki"
+        year: 2013
+        venue: "Turkish Journal of Electrical Engineering and Computer Sciences"
+        link: "https://journals.tubitak.gov.tr/elektrik/vol21/iss6/12"
+        featured: true
+
+     - title: "Adaptive Mobility Management Scheme for Mobile IP using Ad Hoc Networks"
+        authors: "Shadi Abudalfa, Mohammad Mikki"
+        year: 2013
+        venue: "The International Arab Journal of Information Technology"
+        link: "https://d1wqtxts1xzle7.cloudfront.net/87297640/11-4246-libre.pdf?1654857534=&response-content-disposition=inline%3B+filename%3DA_Dynamic_Linkage_Clustering_using_KD_Tr.pdf&Expires=1768657050&Signature=NPEIaEPTbpak1-L9wdzggOJN9Baa~rIMufNOviUPAj0Qzq70tR9NqborFut9fjTdCtqpYabTh84FSCQbXIdD~fYnIdBa~R0WpNkhRA3KnWSDjZ1iFsaDp~3o51ZiduFl~TTWkzC~khcDK1xARDeOndUzlH9ujd14wutoC7VUKYbmUBdmYSwfjOayTvgAvxJdu1x4OAC47HIEeHIrvATlHtzwB4YSvC7ZUcGkj8rNiWVBjhjxTdfMx71xYR8WoYwQxfJhHfDpHvt6MJbTNJaa22I3Y9MK1gTEAcItxV3~W4wSgzKj1iL9-Agnay-u3OxzCXHsc-QUEg9lxvi4vXMbgA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+        featured: true
+        
+      - title: "Adaptive Mobility Management Scheme for Mobile IP using Ad Hoc Networks"
+        authors: "Hatem Hamad, Shadi Abudalfa, Shaaban Sahmoud"
+        year: 2011
+        venue: "The International Arab Journal of Information Technology"
+        link: "https://www.researchgate.net/profile/Shadi-Abudalfa/publication/220610527_Adaptive_Mobility_Management_Scheme_for_Mobile_IP_using_Ad_Hoc_Networks/links/5528d91b0cf29b22c9bcba07/Adaptive-Mobility-Management-Scheme-for-Mobile-IP-using-Ad-Hoc-Networks.pdf"
+        featured: false
+    
     
       # ======================
       # Conference Papers
