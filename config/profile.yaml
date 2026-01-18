@@ -227,6 +227,21 @@ skills:
       logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
       proficiency: 2023 - Current
       description: "Using LLMs with different learning settings."
+      
+    - name: "Data Mining"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
+      proficiency: 2009 - Current
+      description: "Data clustering, data preprocessin, and data clustering, data analysis."
+
+    - name: "Human Activity Recognition"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
+      proficiency: 2020 - Current
+      description: "Human activity recognition using RFID and UWB sensors."
+
+    - name: "Text Mining"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
+      proficiency: 2017 - Current
+      description: "Sentiment analysis and text classification."
 
   Language:
     - name: "English"
