@@ -230,11 +230,11 @@ skills:
 
   Language:
     - name: "English"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Icon_Translate_from_Arabic_to_English.png?20180801004608"
       proficiency: Highly proficient
       description: "Professional working proficiency."
 
     - name: "Arabic"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Icon_Translate_from_Arabic_to_English.png?20180801004608"
       proficiency: Native
       description: "Native fluency."
