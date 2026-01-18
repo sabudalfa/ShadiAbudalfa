@@ -20,8 +20,8 @@ projects:
       previewImage: null
       featured: true
 
-    - id: "AT-ODTSAAT-ODTSA"
-      displayName: "AT-ODTSAAT-ODTSA"
+    - id: "AT-ODTSA"
+      displayName: "Arabic Open Domain Targeted Sentiment Analysis"
       previewImage: null
       featured: true
 
