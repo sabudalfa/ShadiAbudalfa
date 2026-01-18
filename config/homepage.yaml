@@ -20,10 +20,6 @@ homepage:
       variant: default
       enabled: true
 
-    - name: Projects
-      variant: default
-      enabled: true
-
     - name: Skills
       variant: default
       enabled: true
@@ -34,4 +30,8 @@ homepage:
 
     - name: Services
       variant: default # default | card
+      enabled: true
+
+    - name: Projects
+      variant: default
       enabled: true
