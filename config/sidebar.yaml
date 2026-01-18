@@ -33,14 +33,14 @@ sidebar:
         name: LuNewspaper
         package: "react-icons/lu"
 
-    - title: Movies
-      url: "movies"
-      icon:
-        name: LuClapperboard
-        package: "react-icons/lu"
+    #- title: Movies
+    #  url: "movies"
+    #  icon:
+    #    name: LuClapperboard
+    #    package: "react-icons/lu"
 
-    - title: Music
-      url: "music"
-      icon:
-        name: LuMusic
-        package: "react-icons/lu"
+    #- title: Music
+    #  url: "music"
+    #  icon:
+    #    name: LuMusic
+    #    package: "react-icons/lu"
