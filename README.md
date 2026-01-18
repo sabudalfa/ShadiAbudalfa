@@ -17,13 +17,6 @@ author: Pin-Yen Huang
   <p align="center">
     Build your personal website effortlessly with <strong>✨Showlit</strong>!  <br>
     This fully customizable React-based template is perfect for showcasing your portfolio with ease.
-    <br />
-    <br />
-    <a href="https://pm25.github.io/showlit">🌐 Live Demo</a>
-    ·
-    <a href="https://github.com/pm25/showlit/issues/new?labels=bug&template=bug-report---.md">🐞 Report Bug</a>
-    ·
-    <a href="./CHANGELOG.md">📄 Update Log</a>
   </p>
 </div>
 
