@@ -57,7 +57,7 @@ publications:
       - title: "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI Generated Text Detection"
         authors: "Shadi Abudalfa, Saad Ezzini, Ahmed Abdelali, Hamza Alami, Abdessamad Benlahbib, Salmane Chafik, Mo El-Haj, Abdelkader El Mahdaouy, Mustafa Jarrar, Salima Lamsiyah, Hamzah Luqman"
         year: 2025
-        venue: "ArabicNLP"
+        venue: "The Third Arabic Natural Language Processing Conference (ArabicNLP)"
         link: "https://underline.io/lecture/137113-the-arageneval-shared-task-on-arabic-authorship-style-transfer-and-ai-generated-text-detection"
         featured: true
     
@@ -102,6 +102,13 @@ publications:
         venue: "International Journal of Engineering and Information Systems"
         link: ""
         featured: false
+
+      - title: "Hybrid Deep-Readout Echo State Network and Support Vector Machine with Feature Selection for Human Activity Recognition"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2021
+        venue: "The 13th EAI International Wireless Internet Conference (EAI WiCON)"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-72802-1_11"
+        featured: ture
     
       - title: "Semi-Supervised Target-Dependent Sentiment Classification for Micro-Blogs"
         authors: "Shadi Abudalfa, Moataz Ahmed"
@@ -162,14 +169,7 @@ publications:
         venue: "17th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI)"
         link: ""
         featured: false
-    
-      - title: "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI-Generated Text Detection"
-        authors: "Shadi Abudalfa et al."
-        year: 2025
-        venue: "Third Arabic Natural Language Processing Conference (ArabicNLP)"
-        link: "https://aclanthology.org/2025.arabicnlp-sharedtasks.1"
-        featured: false
-    
+        
       - title: "Lightweight Uni-Domain Model for Human Activity Recognition Using UWB Radars"
         authors: "Shadi Abudalfa, Kevin Bouchard"
         year: 2025
