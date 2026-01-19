@@ -21,9 +21,6 @@ publications:
   authorName: "Shadi Abudalfa" # Your name here (to highlight your name in publications)
 
   items:
-
-  # ======================
-  # Journal Papers
   # ======================
 
       - title: "MA’AKS: Manually-Curated Parallel Dataset for Arabic Text Sentiment Swap"
@@ -108,7 +105,7 @@ publications:
         year: 2021
         venue: "The 13th EAI International Wireless Internet Conference (EAI WiCON)"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-72802-1_11"
-        featured: ture
+        featured: true
     
       - title: "Semi-Supervised Target-Dependent Sentiment Classification for Micro-Blogs"
         authors: "Shadi Abudalfa, Moataz Ahmed"
