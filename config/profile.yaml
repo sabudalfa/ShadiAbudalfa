@@ -78,14 +78,19 @@ education:
 # # =====================================================
 
 workExperience:
-  - title: "Research Scientist"
-    company: "King Fahd University of Petroleum & Minerals"
-    years: "2023 - Present"
+  - title: "Assistant Professor"
+    company: "Onaizah Colleges"
+    years: "2026 - Present"
     logo: "https://upload.wikimedia.org/wikipedia/ar/archive/3/37/20221103091849%21King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png"
 
-  - title: "Assistant Professor (Full-Time)"
+  - title: "Research Scientist"
+    company: "King Fahd University of Petroleum & Minerals"
+    years: "2023 - 2026"
+    logo: "https://upload.wikimedia.org/wikipedia/ar/archive/3/37/20221103091849%21King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png"
+
+  - title: "Assistant Professor"
     company: "University College of Applied Sciences"
-    years: "August 2019 - July 2023"
+    years: "August 2019 - Present"
     logo: "/images/UCAS.png"
 
   - title: "Assistant Professor (Part-Time)"
